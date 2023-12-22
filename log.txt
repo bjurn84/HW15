@@ -1,0 +1,2 @@
+INFO:root:Начало работы программы.
+INFO:root:Вызвана функция find_roots с параметрами a=None, b=None, c=None
